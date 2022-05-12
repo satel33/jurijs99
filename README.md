@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jurijs Haricevs</h1>
 <h3 align="center">Computer science graduate with 6+ years of experience. I am looking to join a healthy team with whom communication and teamwork are paramount. Having extensive experience working with JavaScript, I would jump at any opportunity to continue growing my skillset in the JS field at IT industry</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jurijs99&label=Profile%20views&color=0e75b6&style=flat" alt="jurijs99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jurijs99" alt="jurijs99" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👯 I’m looking to collaborate on **React/Next.js/Web3.js Full Stack project**
 
